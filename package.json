@@ -1,0 +1,13 @@
+{
+  "name": "alura-timer",
+  "version": "1.0.0",
+  "description": "meu projeto do alura de electron",
+  "main": "index.js",
+  "repository": "https://github.com/BrendonIwata/alura-timer.git",
+  "author": "Brendon Iwata",
+  "license": "none",
+  "private": true,
+  "dependencies": {
+    "electron": "^6.0.0"
+  }
+}
