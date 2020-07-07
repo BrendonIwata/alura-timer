@@ -8,7 +8,7 @@
   "license": "none",
   "private": true,
   "dependencies": {
-    "electron": "^6.0.0",
+    "electron": "^9.1.0",
     "moment": "^2.24.0"
   },
   "scripts": {
